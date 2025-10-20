@@ -1,0 +1,11 @@
+streamlit
+requests
+pillow
+pandas
+tqdm
+google-api-python-client
+ImageHash
+
+
+''' API_KEY = "AIzaSyANyHulmjndM4nZlF06i8OoyzeKChWfYOA"
+CX = "c3b04135aa8bf432d"'''
